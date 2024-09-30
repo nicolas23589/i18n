@@ -3,7 +3,8 @@
     "Company": "Company",
     "Salary": "Salary",
     "City": "City",
-    "PublicationDate": "PublicationDate",
+    "PublicationDate": "Publication Date",
     "Views": "Views",
-    "million": "million"
+    "million": "million",
+    "millions": "milllion"
 }
