@@ -9,7 +9,7 @@ const Job = (props) => {
       <td>{props.offer.company}</td>
       <td>{props.offer.salary}   <FormattedMessage id="million"/></td>
       <td>{props.offer.city}   </td>
-      <td>
+     
   <FormattedDate
     value={new Date(props.offer.date)}
     year='numeric'
